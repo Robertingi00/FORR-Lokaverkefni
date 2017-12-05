@@ -1,5 +1,6 @@
 '''
 Lokaverkefni
+Róbert og Knútur
 '''
 import random
 class Nagdyr:
